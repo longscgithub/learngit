@@ -4,4 +4,8 @@ Git is free software
 45
 sss
 creating a new branch is quick
-creating a new branch is simple
+<<<<<<< HEAD
+creating a new branch is long2
+=======
+creating a new branch is long2
+>>>>>>> long1
