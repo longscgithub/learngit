@@ -1,4 +1,5 @@
 Git is a version control system.
+<<<<<<< HEAD
 Git is freesoftware
 123
 45
@@ -11,3 +12,6 @@ creating a new branch is long2
 >>>>>>> long1
 
 ok!!!
+=======
+Simple 
+>>>>>>> 2
